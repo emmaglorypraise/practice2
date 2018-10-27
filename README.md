@@ -76,3 +76,22 @@ a.hover {
 
 </body>
 </html>
+
+body {
+  background-image: url(unsplash.jpg);
+  background-size:  cover;
+;
+}
+h2 {
+  text-align: right;
+  width: 250px;
+  height: 300px;
+  border: 20px
+}
+.nav {
+  width: 100%;
+  height: 100px;
+  background: #000000;
+  margin-top: 30px;
+}
+
